@@ -7,3 +7,4 @@ In this project, we will use data from accelerometers on the belt, forearm, arm,
 Files: 
 202301_Coursera_PracticalMachineLearning_CourseProject.Rmd is the r-markdown file for this project
 202301_Coursera_PracticalMachineLearning_CourseProject.html is the corresponding html output
+202301_Coursera_PracticalMachineLearning_CourseProject.pdf is a near overview of the full report includuing the code, results and figures
